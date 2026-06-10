@@ -1,6 +1,6 @@
-# Aegis — Autonomous Laser Defense System
+# Aegis: Autonomous Laser Defense System
 
-> A turret that watches a room, spots a ball thrown from any direction, predicts where it's going, and tracks it with a steered laser beam. No human input. Fully autonomous.
+> A turret that watches a room, spots a ball thrown from any direction, predicts where it's going, and tracks it with a steered laser beam, without any human input. 
 
 **Hack Club Highway project** · Deadline: July 31, 2026
 
