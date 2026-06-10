@@ -8,7 +8,7 @@
 
 ## What it does
 
-A camera watches the room. When a ball is thrown — from any angle, at any speed — the system:
+
 
 1. **Detects** the ball in each camera frame (OpenCV)
 2. **Predicts** its flight path (Kalman filter + LSTM)
@@ -53,13 +53,8 @@ Camera → OpenCV detection → Kalman/LSTM prediction → Galvo-steered laser
 
 ## Safety
 
-The laser is Class 3R (5mW). It is an eye hazard on direct or reflected beam. Wavelength-matched safety glasses are worn whenever it is powered, and it is never aimed at people.
+The laser is 5mW, which is quite the hazard on the unprotected eye. Safety glasses to the matched wavelenght are worn while the laser in use. 
 
-## Hack Club programs
-
-- **Highway** — $350 hardware grant (deadline July 31, 2026)
-- **OnBoard** — $100 PCB grant (rolling) — two custom KiCad boards
-- **Stardance** — hours-logged prizes (deadline Sept 30, 2026)
 
 ## License
 
