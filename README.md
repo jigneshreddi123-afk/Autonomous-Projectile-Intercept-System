@@ -14,7 +14,7 @@
 2. **Predicts** its flight path (Kalman filter + LSTM)
 3. **Steers** a laser beam to track it using a 2-axis galvanometer mirror
 
-No motors rotate the turret — the laser stays fixed and the beam is steered by near-massless mirrors, so there's no rotational inertia to slow it down.
+The laser stays fixed and the beam is steered by near-massless mirrors, to prevent being slowed down to rotational inertia. 
 
 ## How it works
 
