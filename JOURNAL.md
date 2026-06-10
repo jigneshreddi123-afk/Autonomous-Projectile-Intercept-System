@@ -1,7 +1,7 @@
 title: "Aegis Autonomous Defense System"
 author: "rajolisathvik"
 description: "Autonomous laser turret that tracks thrown balls using a camera, Kalman filter, LSTM prediction, and a galvo-steered beam."
-created_at: "2026-06-10
+created_at: "2026-06-9
 
 # Build Journal — Aegis
 
