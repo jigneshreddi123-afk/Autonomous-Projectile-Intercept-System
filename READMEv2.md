@@ -18,7 +18,7 @@ The laser stays fixed and the beam is steered by near-massless mirrors, to preve
 
 ## Why I built this
 
-*(I watched some footage of the Iron Dome, and tried to replicate a scaled down version. I was really interested in its ability to detect a fast moving object from any axis, and wanted to understand how it worked)*
+I watched some footage of the Iron Dome, and tried to replicate a scaled down version. I was really interested in its ability to detect a fast moving object from any axis, and wanted to understand how it worked
 
 ## How it works
 
