@@ -3,7 +3,7 @@ title: "Aegis Autonomous Defense System"
 author: "your-slack-username"
 description: "Autonomous laser turret that tracks thrown balls using a camera, Kalman filter, LSTM prediction, and a galvo-steered beam."
 created_at: "2026-06-09"
-total_time_spent: "Xh — update with combined total"
+total_time_spent: "3h — update with combined total"
 ---
 
 # Build Journal — Aegis
@@ -66,6 +66,6 @@ total_time_spent: "Xh — update with combined total"
 - [ ] Start KiCad schematic for galvo-driver/DAC + op-amp board
 - [ ] Write firmware skeleton for ESP32
 
-**Total time spent: Xh**
+**Total time spent: 1h**
 
 ---
