@@ -10,7 +10,7 @@ total_time_spent: "3h"
 
 ---
 
-## 2026-06-09 — Project pivot + planning
+# June 9th: Project pivot + planning
 
 **Decided:**
 - Dropped the 360°-rotating gearbox turret. A heavy turret on a gearbox has too much rotational intertia,
@@ -44,7 +44,7 @@ total_time_spent: "3h"
 
 ---
 
-## 2026-06-11 — CAD model + mechanical design
+# June 11th: CAD model + mechanical design
 
 **Built:**
 - Wedge base + box enclosure model in Onshape
