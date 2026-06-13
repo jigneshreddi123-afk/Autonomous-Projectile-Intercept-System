@@ -58,8 +58,8 @@ total_time_spent: "3h"
 - Fixed tilt for now, adjustable later if needed (locking hinge upgrade path exists)
 - Camera FOV constraint accepted for v1 — balls thrown from in front of the unit only. 360° coverage is a future improvement.
 
-*(add your Onshape screenshot here — ![CAD model](<img width="1194" height="709" alt="image" src="https://github.com/user-attachments/assets/55a5f2f5-d663-48c2-b3f9-f3f7fa831b80" />
-))*
+<img width="1194" height="709" alt="image" src="https://github.com/user-attachments/assets/7c1269ec-91ae-4ec1-8f0c-99b9d3781437" />
+
 
 **Next:**
 - [ ] Export .STEP from Onshape and add to repo root
