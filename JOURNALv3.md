@@ -37,7 +37,8 @@ total_time_spent: "3h"
 - Single-camera 3D position from apparent ball size — accurate enough, or go stereo?
 - Galvo driver voltage/current — what supply to buy?
 
-*(add your sketch photo here — drag image into GitHub or use ![sketch](images/sketch.jpg))*
+<img width="1414" height="832" alt="image" src="https://github.com/user-attachments/assets/0e6a7bd1-95dc-4564-8b88-3ab59e946e68" />
+
 
 **Total time spent: 2h**
 
