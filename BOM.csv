@@ -1,0 +1,19 @@
+Subsystem,Part,Quantity,Unit Cost Low ($),Unit Cost High ($),Total Cost Low ($),Total Cost High ($),Status,Purchase Link,Notes
+Perception,Global-shutter USB camera (OV9281-class),1,40,70,40,70,Buy,https://www.amazon.com/s?k=OV9281+global+shutter+USB+camera,Most important purchase. Tracks fast balls without motion smear. 120fps+.
+Compute,Laptop (existing),1,0,0,0,0,Have,,Runs OpenCV + Kalman + LSTM + radar UI. No additional cost.
+Control,ESP32 DevKit v1 (existing),1,0,0,0,0,Have,,I/O bridge: drives galvo DAC via SPI and controls laser.
+Actuation,2-axis galvanometer + driver board,1,40,90,40,90,Buy,https://www.amazon.com/s?k=2+axis+galvo+scanner+laser,Replaces entire rotating turret. Near-zero inertia = instant beam repositioning.
+Actuation,MCP4922 dual 12-bit DAC,1,4,6,4,6,Buy,https://www.digikey.com/en/products/filter/digital-to-analog-converters-dac/700?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA,Converts ESP32 SPI output to analog voltage for galvo driver.
+Actuation,Galvo power supply (±12V to ±24V DC),1,15,25,15,25,Buy/Have?,https://www.amazon.com/s?k=variable+DC+bench+power+supply+12v,Check galvo driver spec sheet before buying — voltage varies by model.
+Intercept,5mW green laser module (532nm),1,5,10,5,10,Buy,https://www.amazon.com/s?k=5mw+green+laser+module+532nm,Mounts fixed. Fires through galvo mirrors. Class 3R eye hazard.
+Safety,Laser safety glasses (532nm OD4+),1,10,15,10,15,Buy,https://www.amazon.com/s?k=laser+safety+glasses+532nm,Required before powering laser near people. Must match 532nm wavelength.
+Mechanical,Tripod or camera mount,1,0,20,0,20,Buy/Have?,https://www.amazon.com/s?k=small+camera+tripod,Elevates unit ~1m off floor. A basic phone/camera tripod works fine.
+Environment,Dark backdrop,1,0,0,0,0,Have,,Bright ball against plain background helps OpenCV blob detection.
+Consumables,Dupont wires + breadboard,1,5,10,5,10,Buy/Have?,https://www.amazon.com/s?k=dupont+wires+breadboard+kit,Standard bench wiring kit.
+Consumables,Balls (plastic for testing + metal for demo),1,5,10,5,10,Buy/Have?,https://www.amazon.com/s?k=rubber+bouncy+balls,Plastic for Phase 1-3 testing. Metal for final demo.
+PCBs,Galvo-driver + DAC breakout board (OnBoard grant),1,0,0,0,0,OnBoard,,Covered by Hack Club OnBoard $100 grant. Not deducted from Highway budget.
+PCBs,Laser control + power distribution board (OnBoard grant),1,0,0,0,0,OnBoard,,Covered by Hack Club OnBoard $100 grant. Not deducted from Highway budget.
+,,,,,,,,,,
+,TOTAL (Highway items only),,124,256,124,256,,,Comfortably within $350 Highway grant.
+,Highway grant available,,,,,350,,,
+,Estimated headroom,,,,,94-226,,,Remaining after parts purchase.
