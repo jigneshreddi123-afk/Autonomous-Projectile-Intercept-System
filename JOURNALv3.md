@@ -1,6 +1,6 @@
 ---
 title: "Aegis Autonomous Defense System"
-author: "your-slack-username"
+author: "rajolisathvik"
 description: "Autonomous laser turret that tracks thrown balls using a camera, Kalman filter, LSTM prediction, and a galvo-steered beam."
 created_at: "2026-06-09"
 total_time_spent: "3h"
@@ -63,8 +63,8 @@ total_time_spent: "3h"
 
 
 **Next:**
-- [ ] Export .STEP from Onshape and add to repo root
-- [ ] Add screenshot to images/ folder and link in this entry
+- [X] Export .STEP from Onshape and add to repo root
+- [X] Add screenshot to images/ folder and link in this entry
 - [ ] Start KiCad schematic for galvo-driver/DAC + op-amp board
 - [ ] Write firmware skeleton for ESP32
 
