@@ -37,7 +37,7 @@ total_time_spent: "3h"
 - Single-camera 3D position from apparent ball size — accurate enough, or go stereo?
 - Galvo driver voltage/current — what supply to buy?
 
-<img width="1414" height="832" alt="image" src="https://github.com/user-attachments/assets/0e6a7bd1-95dc-4564-8b88-3ab59e946e68" />
+<img width="1414" height="832" alt="image" src="https://github.com/rajolisathvik/assets/0e6a7bd1-95dc-4564-8b88-3ab59e946e68" />
 
 
 **Total time spent: 2h**
@@ -59,7 +59,7 @@ total_time_spent: "3h"
 - Fixed tilt for now, adjustable later if needed (locking hinge upgrade path exists)
 - Camera FOV constraint accepted for v1 — balls thrown from in front of the unit only. 360° coverage is a future improvement.
 
-<img width="1194" height="709" alt="image" src="https://github.com/user-attachments/assets/7c1269ec-91ae-4ec1-8f0c-99b9d3781437" />
+<img width="1194" height="709" alt="image" src="https://github.com/rajolisathvik/assets/7c1269ec-91ae-4ec1-8f0c-99b9d3781437" />
 
 
 **Next:**
